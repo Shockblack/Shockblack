@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EXOSIMS](https://github.com/dsavransky/EXOSIMS) and [POSEIDON](https://github.com/MartianColonist/POSEIDON)
 
-- 👨‍💻 All of my projects are available at [zelakiewicz.dev](zelakiewicz.dev)
+- 👨‍💻 All of my projects are available at [zelakiewicz.dev](https://zelakiewicz.dev)
 
 - 📄 Know about my work: [CV](https://zelakiewicz.dev/cv/)
   
