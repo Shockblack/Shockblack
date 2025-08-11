@@ -6,8 +6,3 @@
 - 👨‍💻 All of my projects are available at [zelakiewicz.dev](https://zelakiewicz.dev)
 
 - 📄 Know about my work: [CV](https://zelakiewicz.dev/cv/)
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shockblack&show_icons=true&locale=en" alt="shockblack" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shockblack&show_icons=true&locale=en&layout=compact" alt="shockblack" /></p>
-
